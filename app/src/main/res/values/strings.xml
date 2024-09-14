@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Projeto_Telas</string>
+    <string name="BemVindo">Bem vindo !!!</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="CoinConvert">Moeda</string>
+    <string name="Nome">Nome</string>
+    <string name="Email">Email</string>
+    <string name="Senha">Senha</string>
+    <string name="Senha2">Repita a senha</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="btn_login">Entrar</string>
+    <string name="ValorReais">Digite o valor em Real</string>
+    <string name="Cotacao">Digite a cotacao em Dolar</string>
+    <string name="btn_convert">Converter</string>
+    <string name="btn_clean">Resetar</string>
+    <string name="Resultado">Resultado</string>
+</resources>
